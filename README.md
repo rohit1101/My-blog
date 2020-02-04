@@ -1,2 +1,2 @@
 # My-blog
-Not responsive
+Responsive
